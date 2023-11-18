@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi! I'm Bill Christian S. Panopio</h1>
-<h4 align="center">I am proficient in UI/UX Design, Web Design, Front-End Development, and Graphics Design. I have experience adapting to technologies and possess problem-solving abilities. My collaborative nature allows me to effectively work with teams in developing and implementing IT solutions. </h4>
+<h4 align="center">I am proficient in Front-End Web Development, Web UI/UX Design, and Graphics Design. I have experience adapting to technologies and possess problem-solving abilities. My collaborative nature allows me to effectively work with teams in developing and implementing IT solutions. </h4>
 
 
 <h3 align="left">Connect with me:</h3>
