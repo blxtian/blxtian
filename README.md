@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bill Christian Panopio</h1>
 <h3 align="center">"A web and software developer from the Philippines passionate about front-end development, building interactive and responsive web experiences."</h3>
 
-- 🌱 I’m currently learning **Vue and Svelte**
-
 - 👨‍💻 Here's my Portfolio: [https://blxtianportfolio.netlify.app/](https://blxtianportfolio.netlify.app/)
 
 - 📫 Email me at **probeilly@gmail.com**
