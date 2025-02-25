@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Bill Christian Panopio</h1>
-<h3 align="center">"A web and software developer from the Philippines passionate about front-end development, building interactive and responsive web experiences."</h3>
+<p align="center">"A web and software developer from the Philippines passionate about front-end development, building interactive and responsive web experiences."</p>
 
 - 👨‍💻 Here's my Portfolio: [https://blxtianportfolio.netlify.app/](https://blxtianportfolio.netlify.app/)
 
