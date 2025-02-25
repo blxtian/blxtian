@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Bill Christian Panopio</h1>
-<h3 align="center">"A web and software developer passionate about front-end web development, creating interactive and responsive web experiences."</h3>
+<h3 align="center">"A web and software developer from the Philippines passionate about front-end development, building interactive and responsive web experiences."</h3>
 
 - 🌱 I’m currently learning **Vue and Svelte**
 
