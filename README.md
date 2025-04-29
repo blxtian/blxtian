@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Bill Christian Panopio</h2>
-<p align="center">"A web and software developer from the Philippines. I create seamless user interfaces and experiences that blend creativity with functionality. Let’s connect and bring ideas to life."</p>
+<p align="center">"I create seamless user interfaces and experiences that blend creativity with functionality. Let’s connect and bring ideas to life."</p>
 
 - 👨‍💻 Here's my Portfolio: [https://blxtianportfolio.netlify.app/](https://blxtianportfolio.netlify.app/)
 
