@@ -4,7 +4,6 @@
 
 - 📫 Email me at **probeilly@gmail.com**
 
-- 💼 Currently working at TMC as **Web Developer**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
