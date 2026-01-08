@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Bill Christian Panopio</h2>
 
-- 👨‍💻 Here's my Portfolio: [https://blxtianportfolio.netlify.app/](https://blxtianportfolio.netlify.app/)
+- 👨‍💻 Here's my Portfolio: https://blxtian.vercel.app
 
 - 📫 Email me at **probeilly@gmail.com**
 
