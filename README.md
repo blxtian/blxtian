@@ -2,7 +2,7 @@
 
 - 👨‍💻 Here's my Portfolio: https://blxtian.vercel.app
 
-- 📫 Email me at **probeilly@gmail.com**
+- 📫 Email me at **devbillchristian@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
