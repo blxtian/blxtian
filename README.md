@@ -35,6 +35,3 @@
 ![Elementor](https://img.shields.io/badge/-Elementor-9158F1?style=for-the-badge&logo=elementor&logoColor=white) 
 ![Headless CMS](https://img.shields.io/badge/-Headless%20CMS-FF6F61?style=for-the-badge&logo=ghost&logoColor=white) 
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
