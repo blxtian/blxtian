@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bill Christian S. Panopio</h1>
+<h2 align="center">Hi 👋, I'm Bill Christian S. Panopio</h2>
 
 - 👨‍💻 Here's my Portfolio: https://blxtian.vercel.app
 
