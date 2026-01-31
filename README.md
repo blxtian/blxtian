@@ -4,7 +4,7 @@
 
 - 📫 Email me at **devbillchristian@gmail.com**
 
-- 💼 Currently working at **Eurekare Corp** as **Backend Developer**
+- 💼 Currently working at [Eurekare Corp](https://eurekare.net/) as **Backend Developer**
 
 
 <h3 align="left">Connect with me:</h3>
